@@ -34,15 +34,6 @@ bool isFoundBus(map<string, vector<string>> &routes, string& stop_name, string& 
 	return res;
 }
 
-//void PrintFoundBus(map<string, vector<string>>& routes, vector<string>& init_buses) {
-//
-//	for (auto& item : ) {
-//		cout << word << " ";
-//	}
-//}
-	
-
-
 int main()
 {
 	map<string, vector<string>> routes;
